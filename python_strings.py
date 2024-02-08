@@ -1,12 +1,16 @@
 # TODO Create Variables
 #   - Create the following variables
 #   - my_first_name
+my_first_name = 'Levi' # loosely typed 'data typed'
 #       -set this equal to your first name
 #   - my_last_name
+my_last_name = 'Holt'
 #       -set this equal to your last name
 #   - my_year_of_birth
+my_year_of_birth = 2004 #this is an interger data type
 #       -set this equal to your birth year (doesn't have to be real should be less then 100 yrs ago)
 #   - current_year
+current_year = 2024
 #       -set this equal to 2020
 
 
